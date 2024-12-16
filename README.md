@@ -1,4 +1,6 @@
 # CUB-DM-Project
-CU Boulder Data Mining Project (CS 5502) 
-Group: **Mutual Fund Analysis Group**
-Group Members: **Ashwini Dubbewar, Dhruv Pathak, Kshitij Jadhav**
+1. CU Boulder Data Mining Project (CS 5502) 
+
+2. Group: **Mutual Fund Analysis Group**
+
+3. Group Members: **Ashwini Dubbewar, Dhruv Pathak, Kshitij Jadhav**
